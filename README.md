@@ -1,7 +1,7 @@
-# Olá! 👋 Eu sou [Seu Nome]
+# Olá! 👋 Eu sou André Marchi
 
 🎓 Estudante de Sistemas de Informação  
-📍 [Sua cidade/estado]  
+📍 Nova Trento - SC
 💻 Interessado em desenvolvimento de software e tecnologia  
 
 ---
@@ -25,7 +25,7 @@ Gosto de aprender novas tecnologias e resolver problemas através da programaç�
 
 ## 📚 Objetivos
 
-- Aprimorar minhas habilidades em desenvolvimento backend
+- Aprender e aprimorar minhas habilidades em desenvolvimento backend
 - Criar projetos práticos para meu portfólio
 - Conseguir minha primeira oportunidade na área de TI
 
@@ -33,8 +33,7 @@ Gosto de aprender novas tecnologias e resolver problemas através da programaç�
 
 ## 📫 Contato
 
-- LinkedIn: [link aqui]
-- Email: [seu email aqui]
+- Email: andre_sezerino@yahoo.com.br
 
 ---
 
